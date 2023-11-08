@@ -42,7 +42,9 @@ hi VertSplit guifg=#517f8d ctermfg=66 guibg=#002635 ctermbg=235 gui=NONE cterm=N
 hi Folded guifg=#77929e ctermfg=246 guibg=#00384d ctermbg=23 gui=NONE cterm=NONE
 hi SignColumn guifg=#b7cff9 ctermfg=153 guibg=#002635 ctermbg=235 gui=NONE cterm=NONE
 hi IncSearch guifg=#002635 ctermfg=235 guibg=#ffcc1b ctermbg=220 gui=NONE cterm=NONE
-hi MatchParen guifg=#002635 ctermfg=235 guibg=#00ffff ctermbg=14 gui=NONE cterm=NONE
+" hi MatchParen guifg=#002635 ctermfg=235 guibg=#00ffff ctermbg=14 gui=NONE cterm=NONE
+" hi MatchParen guifg=NONE ctermfg=NONE guibg=#00cccc ctermbg=14 gui=NONE cterm=NONE
+" hi MatchParen guifg=NONE ctermfg=NONE guibg=#00ffff ctermbg=14 gui=NONE cterm=NONE
 hi NonText guifg=#517f8d ctermfg=66 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Normal guifg=#e6e6dc ctermfg=254 guibg=#002635 ctermbg=235 gui=NONE cterm=NONE
 hi PMenu guifg=#e6e6dc ctermfg=254 guibg=#00384d ctermbg=23 gui=NONE cterm=NONE
